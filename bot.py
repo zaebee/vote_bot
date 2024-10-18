@@ -10,8 +10,7 @@ from aiogram.filters import CommandStart, Command
 from aiogram.types import Message
 
 
-# TOKEN = getenv("BOT_TOKEN")
-TOKEN = '7605873545:AAH68qd8bza0KGSbl6UAo6AMnUK82naDOao'
+TOKEN = getenv("BOT_TOKEN")
 dp = Dispatcher()
 
 
